@@ -1,0 +1,9 @@
+E:\Projects\VS Community\Projects\GUI Projects\Basic_TextEditor\bin\Debug\Basic_TextEditor.exe
+E:\Projects\VS Community\Projects\GUI Projects\Basic_TextEditor\bin\Debug\Basic_TextEditor.pdb
+E:\Projects\VS Community\Projects\GUI Projects\Basic_TextEditor\obj\Debug\Basic_TextEditor.csproj.AssemblyReference.cache
+E:\Projects\VS Community\Projects\GUI Projects\Basic_TextEditor\obj\Debug\Basic_TextEditor.Form1.resources
+E:\Projects\VS Community\Projects\GUI Projects\Basic_TextEditor\obj\Debug\Basic_TextEditor.Properties.Resources.resources
+E:\Projects\VS Community\Projects\GUI Projects\Basic_TextEditor\obj\Debug\Basic_TextEditor.csproj.GenerateResource.cache
+E:\Projects\VS Community\Projects\GUI Projects\Basic_TextEditor\obj\Debug\Basic_TextEditor.csproj.CoreCompileInputs.cache
+E:\Projects\VS Community\Projects\GUI Projects\Basic_TextEditor\obj\Debug\Basic_TextEditor.exe
+E:\Projects\VS Community\Projects\GUI Projects\Basic_TextEditor\obj\Debug\Basic_TextEditor.pdb
